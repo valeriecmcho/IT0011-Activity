@@ -1,6 +1,5 @@
 import csv
 import os
-import requests
 
 CSV_URL = "https://raw.githubusercontent.com/valeriecmcho/IT0011-Activity/main/currency.csv"
 
