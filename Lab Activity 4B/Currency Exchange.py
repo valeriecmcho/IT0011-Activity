@@ -1,8 +1,7 @@
 import csv
 import os
+import requests
 
-
-# GitHub raw file URL (Update this with the correct path in your repo)
 CSV_URL = "https://raw.githubusercontent.com/valeriecmcho/IT0011-Activity/main/currency.csv"
 
 def download_csv(filename):
